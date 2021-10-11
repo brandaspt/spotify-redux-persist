@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spotify-redux-persist/static/css/main.e3abf482.chunk.css",
+    "main.js": "/spotify-redux-persist/static/js/main.5c802fc0.chunk.js",
+    "main.js.map": "/spotify-redux-persist/static/js/main.5c802fc0.chunk.js.map",
+    "runtime-main.js": "/spotify-redux-persist/static/js/runtime-main.261f52c6.js",
+    "runtime-main.js.map": "/spotify-redux-persist/static/js/runtime-main.261f52c6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/spotify-redux-persist/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.601152f5.chunk.js": "/spotify-redux-persist/static/js/2.601152f5.chunk.js",
+    "static/js/2.601152f5.chunk.js.map": "/spotify-redux-persist/static/js/2.601152f5.chunk.js.map",
+    "index.html": "/spotify-redux-persist/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/spotify-redux-persist/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e3abf482.chunk.css.map": "/spotify-redux-persist/static/css/main.e3abf482.chunk.css.map",
+    "static/js/2.601152f5.chunk.js.LICENSE.txt": "/spotify-redux-persist/static/js/2.601152f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.261f52c6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.601152f5.chunk.js",
+    "static/css/main.e3abf482.chunk.css",
+    "static/js/main.5c802fc0.chunk.js"
+  ]
+}
